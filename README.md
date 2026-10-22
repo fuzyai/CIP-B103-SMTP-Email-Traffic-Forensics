@@ -1,8 +1,8 @@
-# CIP-B103 Lab [#] – SMTP Email Traffic Forensics: Credential and Message Recovery from a Plaintext Capture
+# CIP-B103 Lab 4 – SMTP Email Traffic Forensics: Credential and Message Recovery from a Plaintext Capture
 
 **Student:** Fuseini Imoru Kantuogaa  
 **Course:** CIP-B103  
-**Lab:** Lab [#] – SMTP Protocol Analysis, Base64 Credential Decoding and Email Content Reconstruction with tshark
+**Lab:** Lab 4 – SMTP Protocol Analysis, Base64 Credential Decoding and Email Content Reconstruction with tshark
 
 ## Overview
 
